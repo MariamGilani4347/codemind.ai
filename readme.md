@@ -30,7 +30,7 @@
 |---|---|---|
 | `docs/screenshot-index.png` | `docs/screenshot-search.png` | `docs/screenshot-chat.png` |
 
-**Live demo:** _https://your-app.vercel.app_  ← replace with your deployed URL
+**Live demo:** https://codemind-mu.vercel.app/
 
 ---
 
@@ -214,9 +214,9 @@ This repo is designed for **two Vercel projects**:
 
 ## 👤 Author
 
-**Ayesha Zafar**
-- GitHub: [@Ayesha-Zafar-03](https://github.com/Ayesha-Zafar-03)
-- Project: [codemind.ai](https://github.com/Ayesha-Zafar-03/codemind.ai)
+**Mariam Gilani**
+- GitHub: [@MariamGilani4347](https://github.com/MariamGilani4347) 
+- Project: [codemind.ai](https://github.com/MariamGilani4347/codemind.ai)
 
 ---
 
